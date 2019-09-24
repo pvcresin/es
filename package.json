@@ -1,0 +1,14 @@
+{
+  "name": "es",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "eslint-config-prettier": "^6.3.0",
+    "prettier": "^1.18.2"
+  },
+  "scripts": {
+    "eslint": "eslint ./test.js"
+  }
+}
